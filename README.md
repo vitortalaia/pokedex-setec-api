@@ -1,6 +1,6 @@
 # Pokédex Setec - API
 
-Simple API to be used in the ["Componentização e testes em JavaScript"](https://fatecsorocaba.github.io/semana-da-tecnologia/) mini-course, to be presented on XXIII Semana da Tecnologia at Fatec Sorocaba.
+Simple API to be used in the "Componentização e testes em JavaScript" mini-course, to be presented on [XXIII Semana da Tecnologia](https://fatecsorocaba.github.io/semana-da-tecnologia/) at Fatec Sorocaba.
 
 ## Requirements
 
