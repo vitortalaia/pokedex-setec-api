@@ -1,0 +1,22 @@
+{
+  "name": "pokedex-setec-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitortalaia/pokedex-setec-api.git"
+  },
+  "author": "Vitor Talaia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitortalaia/pokedex-setec-api/issues"
+  },
+  "homepage": "https://github.com/vitortalaia/pokedex-setec-api#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
